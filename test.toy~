@@ -1,0 +1,5 @@
+1.4 + 2*(2+3);
+ac=6.931;
+if (ac>0) then {ac=-1;} else {ac=1; ac=2*ac;}
+b=sqrt(100);
+while (b>0) do {b=b-1; print(b);}
